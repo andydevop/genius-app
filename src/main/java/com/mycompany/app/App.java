@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Genius APP! Version 1.0" );
+        System.out.println( "Genius APP by Anirudh! Version 2.0" );
     }
 }
